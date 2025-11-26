@@ -1,0 +1,440 @@
+year,round,driver,team,position,puntos_carrera,es_abandono
+2025,1,NOR,McLaren,1,25,False
+2025,1,VER,Red Bull Racing,2,18,False
+2025,1,RUS,Mercedes,3,15,False
+2025,1,ANT,Mercedes,4,12,False
+2025,1,ALB,Williams,5,10,False
+2025,1,STR,Aston Martin,6,8,False
+2025,1,HUL,Kick Sauber,7,6,False
+2025,1,LEC,Ferrari,8,4,False
+2025,1,PIA,McLaren,9,2,False
+2025,1,HAM,Ferrari,10,1,False
+2025,1,GAS,Alpine,11,0,False
+2025,1,TSU,Racing Bulls,12,0,False
+2025,1,OCO,Haas F1 Team,13,0,False
+2025,1,BEA,Haas F1 Team,14,0,False
+2025,1,LAW,Red Bull Racing,999,0,True
+2025,1,BOR,Kick Sauber,999,0,True
+2025,1,ALO,Aston Martin,999,0,True
+2025,1,SAI,Williams,999,0,True
+2025,1,DOO,Alpine,999,0,True
+2025,1,HAD,Racing Bulls,999,0,True
+2025,2,PIA,McLaren,1,25,False
+2025,2,NOR,McLaren,2,18,False
+2025,2,RUS,Mercedes,3,15,False
+2025,2,VER,Red Bull Racing,4,12,False
+2025,2,OCO,Haas F1 Team,5,10,False
+2025,2,ANT,Mercedes,6,8,False
+2025,2,ALB,Williams,7,6,False
+2025,2,BEA,Haas F1 Team,8,4,False
+2025,2,STR,Aston Martin,9,2,False
+2025,2,SAI,Williams,10,1,False
+2025,2,HAD,Racing Bulls,11,0,False
+2025,2,LAW,Red Bull Racing,12,0,False
+2025,2,DOO,Alpine,13,0,False
+2025,2,BOR,Kick Sauber,14,0,False
+2025,2,HUL,Kick Sauber,15,0,False
+2025,2,TSU,Racing Bulls,16,0,False
+2025,2,ALO,Aston Martin,999,0,True
+2025,2,LEC,Ferrari,18,0,False
+2025,2,HAM,Ferrari,19,0,False
+2025,2,GAS,Alpine,20,0,False
+2025,3,VER,Red Bull Racing,1,25,False
+2025,3,NOR,McLaren,2,18,False
+2025,3,PIA,McLaren,3,15,False
+2025,3,LEC,Ferrari,4,12,False
+2025,3,RUS,Mercedes,5,10,False
+2025,3,ANT,Mercedes,6,8,False
+2025,3,HAM,Ferrari,7,6,False
+2025,3,HAD,Racing Bulls,8,4,False
+2025,3,ALB,Williams,9,2,False
+2025,3,BEA,Haas F1 Team,10,1,False
+2025,3,ALO,Aston Martin,11,0,False
+2025,3,TSU,Red Bull Racing,12,0,False
+2025,3,GAS,Alpine,13,0,False
+2025,3,SAI,Williams,14,0,False
+2025,3,DOO,Alpine,15,0,False
+2025,3,HUL,Kick Sauber,16,0,False
+2025,3,LAW,Racing Bulls,17,0,False
+2025,3,OCO,Haas F1 Team,18,0,False
+2025,3,BOR,Kick Sauber,19,0,False
+2025,3,STR,Aston Martin,20,0,False
+2025,4,PIA,McLaren,1,25,False
+2025,4,RUS,Mercedes,2,18,False
+2025,4,NOR,McLaren,3,15,False
+2025,4,LEC,Ferrari,4,12,False
+2025,4,HAM,Ferrari,5,10,False
+2025,4,VER,Red Bull Racing,6,8,False
+2025,4,GAS,Alpine,7,6,False
+2025,4,OCO,Haas F1 Team,8,4,False
+2025,4,TSU,Red Bull Racing,9,2,False
+2025,4,BEA,Haas F1 Team,10,1,False
+2025,4,ANT,Mercedes,11,0,False
+2025,4,ALB,Williams,12,0,False
+2025,4,HAD,Racing Bulls,13,0,False
+2025,4,DOO,Alpine,14,0,False
+2025,4,ALO,Aston Martin,15,0,False
+2025,4,LAW,Racing Bulls,16,0,False
+2025,4,STR,Aston Martin,17,0,False
+2025,4,BOR,Kick Sauber,18,0,False
+2025,4,SAI,Williams,999,0,True
+2025,4,HUL,Kick Sauber,20,0,False
+2025,5,PIA,McLaren,1,25,False
+2025,5,VER,Red Bull Racing,2,18,False
+2025,5,LEC,Ferrari,3,15,False
+2025,5,NOR,McLaren,4,12,False
+2025,5,RUS,Mercedes,5,10,False
+2025,5,ANT,Mercedes,6,8,False
+2025,5,HAM,Ferrari,7,6,False
+2025,5,SAI,Williams,8,4,False
+2025,5,ALB,Williams,9,2,False
+2025,5,HAD,Racing Bulls,10,1,False
+2025,5,ALO,Aston Martin,11,0,False
+2025,5,LAW,Racing Bulls,12,0,False
+2025,5,BEA,Haas F1 Team,13,0,False
+2025,5,OCO,Haas F1 Team,14,0,False
+2025,5,HUL,Kick Sauber,15,0,False
+2025,5,STR,Aston Martin,16,0,False
+2025,5,DOO,Alpine,17,0,False
+2025,5,BOR,Kick Sauber,18,0,False
+2025,5,TSU,Red Bull Racing,999,0,True
+2025,5,GAS,Alpine,999,0,True
+2025,6,PIA,McLaren,1,25,False
+2025,6,NOR,McLaren,2,18,False
+2025,6,RUS,Mercedes,3,15,False
+2025,6,VER,Red Bull Racing,4,12,False
+2025,6,ALB,Williams,5,10,False
+2025,6,ANT,Mercedes,6,8,False
+2025,6,LEC,Ferrari,7,6,False
+2025,6,HAM,Ferrari,8,4,False
+2025,6,SAI,Williams,9,2,False
+2025,6,TSU,Red Bull Racing,10,1,False
+2025,6,HAD,Racing Bulls,11,0,False
+2025,6,OCO,Haas F1 Team,12,0,False
+2025,6,GAS,Alpine,13,0,False
+2025,6,HUL,Kick Sauber,14,0,False
+2025,6,ALO,Aston Martin,15,0,False
+2025,6,STR,Aston Martin,16,0,False
+2025,6,LAW,Racing Bulls,999,0,True
+2025,6,BOR,Kick Sauber,999,0,True
+2025,6,BEA,Haas F1 Team,999,0,True
+2025,6,DOO,Alpine,999,0,True
+2025,7,VER,Red Bull Racing,1,25,False
+2025,7,NOR,McLaren,2,18,False
+2025,7,PIA,McLaren,3,15,False
+2025,7,HAM,Ferrari,4,12,False
+2025,7,ALB,Williams,5,10,False
+2025,7,LEC,Ferrari,6,8,False
+2025,7,RUS,Mercedes,7,6,False
+2025,7,SAI,Williams,8,4,False
+2025,7,HAD,Racing Bulls,9,2,False
+2025,7,TSU,Red Bull Racing,10,1,False
+2025,7,ALO,Aston Martin,11,0,False
+2025,7,HUL,Kick Sauber,12,0,False
+2025,7,GAS,Alpine,13,0,False
+2025,7,LAW,Racing Bulls,14,0,False
+2025,7,STR,Aston Martin,15,0,False
+2025,7,COL,Alpine,16,0,False
+2025,7,BEA,Haas F1 Team,17,0,False
+2025,7,BOR,Kick Sauber,18,0,False
+2025,7,ANT,Mercedes,999,0,True
+2025,7,OCO,Haas F1 Team,999,0,True
+2025,8,NOR,McLaren,1,25,False
+2025,8,LEC,Ferrari,2,18,False
+2025,8,PIA,McLaren,3,15,False
+2025,8,VER,Red Bull Racing,4,12,False
+2025,8,HAM,Ferrari,5,10,False
+2025,8,HAD,Racing Bulls,6,8,False
+2025,8,OCO,Haas F1 Team,7,6,False
+2025,8,LAW,Racing Bulls,8,4,False
+2025,8,ALB,Williams,9,2,False
+2025,8,SAI,Williams,10,1,False
+2025,8,RUS,Mercedes,11,0,False
+2025,8,BEA,Haas F1 Team,12,0,False
+2025,8,COL,Alpine,13,0,False
+2025,8,BOR,Kick Sauber,14,0,False
+2025,8,STR,Aston Martin,15,0,False
+2025,8,HUL,Kick Sauber,16,0,False
+2025,8,TSU,Red Bull Racing,17,0,False
+2025,8,ANT,Mercedes,18,0,False
+2025,8,ALO,Aston Martin,999,0,True
+2025,8,GAS,Alpine,999,0,True
+2025,9,PIA,McLaren,1,25,False
+2025,9,NOR,McLaren,2,18,False
+2025,9,LEC,Ferrari,3,15,False
+2025,9,RUS,Mercedes,4,12,False
+2025,9,HUL,Kick Sauber,5,10,False
+2025,9,HAM,Ferrari,6,8,False
+2025,9,HAD,Racing Bulls,7,6,False
+2025,9,GAS,Alpine,8,4,False
+2025,9,ALO,Aston Martin,9,2,False
+2025,9,VER,Red Bull Racing,10,1,False
+2025,9,LAW,Racing Bulls,11,0,False
+2025,9,BOR,Kick Sauber,12,0,False
+2025,9,TSU,Red Bull Racing,13,0,False
+2025,9,SAI,Williams,14,0,False
+2025,9,COL,Alpine,15,0,False
+2025,9,OCO,Haas F1 Team,16,0,False
+2025,9,BEA,Haas F1 Team,17,0,False
+2025,9,ANT,Mercedes,999,0,True
+2025,9,ALB,Williams,999,0,True
+2025,10,RUS,Mercedes,1,25,False
+2025,10,VER,Red Bull Racing,2,18,False
+2025,10,ANT,Mercedes,3,15,False
+2025,10,PIA,McLaren,4,12,False
+2025,10,LEC,Ferrari,5,10,False
+2025,10,HAM,Ferrari,6,8,False
+2025,10,ALO,Aston Martin,7,6,False
+2025,10,HUL,Kick Sauber,8,4,False
+2025,10,OCO,Haas F1 Team,9,2,False
+2025,10,SAI,Williams,10,1,False
+2025,10,BEA,Haas F1 Team,11,0,False
+2025,10,TSU,Red Bull Racing,12,0,False
+2025,10,COL,Alpine,13,0,False
+2025,10,BOR,Kick Sauber,14,0,False
+2025,10,GAS,Alpine,15,0,False
+2025,10,HAD,Racing Bulls,16,0,False
+2025,10,STR,Aston Martin,17,0,False
+2025,10,NOR,McLaren,999,0,True
+2025,10,LAW,Racing Bulls,999,0,True
+2025,10,ALB,Williams,999,0,True
+2025,11,NOR,McLaren,1,25,False
+2025,11,PIA,McLaren,2,18,False
+2025,11,LEC,Ferrari,3,15,False
+2025,11,HAM,Ferrari,4,12,False
+2025,11,RUS,Mercedes,5,10,False
+2025,11,LAW,Racing Bulls,6,8,False
+2025,11,ALO,Aston Martin,7,6,False
+2025,11,BOR,Kick Sauber,8,4,False
+2025,11,HUL,Kick Sauber,9,2,False
+2025,11,OCO,Haas F1 Team,10,1,False
+2025,11,BEA,Haas F1 Team,11,0,False
+2025,11,HAD,Racing Bulls,12,0,False
+2025,11,GAS,Alpine,13,0,False
+2025,11,STR,Aston Martin,14,0,False
+2025,11,COL,Alpine,15,0,False
+2025,11,TSU,Red Bull Racing,16,0,False
+2025,11,ALB,Williams,999,0,True
+2025,11,VER,Red Bull Racing,999,0,True
+2025,11,ANT,Mercedes,999,0,True
+2025,11,SAI,Williams,20,0,False
+2025,12,NOR,McLaren,1,25,False
+2025,12,PIA,McLaren,2,18,False
+2025,12,HUL,Kick Sauber,3,15,False
+2025,12,HAM,Ferrari,4,12,False
+2025,12,VER,Red Bull Racing,5,10,False
+2025,12,GAS,Alpine,6,8,False
+2025,12,STR,Aston Martin,7,6,False
+2025,12,ALB,Williams,8,4,False
+2025,12,ALO,Aston Martin,9,2,False
+2025,12,RUS,Mercedes,10,1,False
+2025,12,BEA,Haas F1 Team,11,0,False
+2025,12,SAI,Williams,12,0,False
+2025,12,OCO,Haas F1 Team,13,0,False
+2025,12,LEC,Ferrari,14,0,False
+2025,12,TSU,Red Bull Racing,15,0,False
+2025,12,ANT,Mercedes,999,0,True
+2025,12,HAD,Racing Bulls,999,0,True
+2025,12,BOR,Kick Sauber,999,0,True
+2025,12,LAW,Racing Bulls,999,0,True
+2025,12,COL,Alpine,20,0,False
+2025,13,PIA,McLaren,1,25,False
+2025,13,NOR,McLaren,2,18,False
+2025,13,LEC,Ferrari,3,15,False
+2025,13,VER,Red Bull Racing,4,12,False
+2025,13,RUS,Mercedes,5,10,False
+2025,13,ALB,Williams,6,8,False
+2025,13,HAM,Ferrari,7,6,False
+2025,13,LAW,Racing Bulls,8,4,False
+2025,13,BOR,Kick Sauber,9,2,False
+2025,13,GAS,Alpine,10,1,False
+2025,13,BEA,Haas F1 Team,11,0,False
+2025,13,HUL,Kick Sauber,12,0,False
+2025,13,TSU,Red Bull Racing,13,0,False
+2025,13,STR,Aston Martin,14,0,False
+2025,13,OCO,Haas F1 Team,15,0,False
+2025,13,ANT,Mercedes,16,0,False
+2025,13,ALO,Aston Martin,17,0,False
+2025,13,SAI,Williams,18,0,False
+2025,13,COL,Alpine,19,0,False
+2025,13,HAD,Racing Bulls,20,0,False
+2025,14,NOR,McLaren,1,25,False
+2025,14,PIA,McLaren,2,18,False
+2025,14,RUS,Mercedes,3,15,False
+2025,14,LEC,Ferrari,4,12,False
+2025,14,ALO,Aston Martin,5,10,False
+2025,14,BOR,Kick Sauber,6,8,False
+2025,14,STR,Aston Martin,7,6,False
+2025,14,LAW,Racing Bulls,8,4,False
+2025,14,VER,Red Bull Racing,9,2,False
+2025,14,ANT,Mercedes,10,1,False
+2025,14,HAD,Racing Bulls,11,0,False
+2025,14,HAM,Ferrari,12,0,False
+2025,14,HUL,Kick Sauber,13,0,False
+2025,14,SAI,Williams,14,0,False
+2025,14,ALB,Williams,15,0,False
+2025,14,OCO,Haas F1 Team,16,0,False
+2025,14,TSU,Red Bull Racing,17,0,False
+2025,14,COL,Alpine,18,0,False
+2025,14,GAS,Alpine,19,0,False
+2025,14,BEA,Haas F1 Team,999,0,True
+2025,15,PIA,McLaren,1,25,False
+2025,15,VER,Red Bull Racing,2,18,False
+2025,15,HAD,Racing Bulls,3,15,False
+2025,15,RUS,Mercedes,4,12,False
+2025,15,ALB,Williams,5,10,False
+2025,15,BEA,Haas F1 Team,6,8,False
+2025,15,STR,Aston Martin,7,6,False
+2025,15,ALO,Aston Martin,8,4,False
+2025,15,TSU,Red Bull Racing,9,2,False
+2025,15,OCO,Haas F1 Team,10,1,False
+2025,15,COL,Alpine,11,0,False
+2025,15,LAW,Racing Bulls,12,0,False
+2025,15,SAI,Williams,13,0,False
+2025,15,HUL,Kick Sauber,14,0,False
+2025,15,BOR,Kick Sauber,15,0,False
+2025,15,ANT,Mercedes,16,0,False
+2025,15,GAS,Alpine,17,0,False
+2025,15,NOR,McLaren,999,0,True
+2025,15,LEC,Ferrari,999,0,True
+2025,15,HAM,Ferrari,999,0,True
+2025,16,VER,Red Bull Racing,1,25,False
+2025,16,NOR,McLaren,2,18,False
+2025,16,PIA,McLaren,3,15,False
+2025,16,LEC,Ferrari,4,12,False
+2025,16,RUS,Mercedes,5,10,False
+2025,16,HAM,Ferrari,6,8,False
+2025,16,ALB,Williams,7,6,False
+2025,16,BOR,Kick Sauber,8,4,False
+2025,16,ANT,Mercedes,9,2,False
+2025,16,HAD,Racing Bulls,10,1,False
+2025,16,SAI,Williams,11,0,False
+2025,16,BEA,Haas F1 Team,12,0,False
+2025,16,TSU,Red Bull Racing,13,0,False
+2025,16,LAW,Racing Bulls,14,0,False
+2025,16,OCO,Haas F1 Team,15,0,False
+2025,16,GAS,Alpine,16,0,False
+2025,16,COL,Alpine,17,0,False
+2025,16,STR,Aston Martin,18,0,False
+2025,16,ALO,Aston Martin,999,0,True
+2025,16,HUL,Kick Sauber,20,0,False
+2025,17,VER,Red Bull Racing,1,25,False
+2025,17,RUS,Mercedes,2,18,False
+2025,17,SAI,Williams,3,15,False
+2025,17,ANT,Mercedes,4,12,False
+2025,17,LAW,Racing Bulls,5,10,False
+2025,17,TSU,Red Bull Racing,6,8,False
+2025,17,NOR,McLaren,7,6,False
+2025,17,HAM,Ferrari,8,4,False
+2025,17,LEC,Ferrari,9,2,False
+2025,17,HAD,Racing Bulls,10,1,False
+2025,17,BOR,Kick Sauber,11,0,False
+2025,17,BEA,Haas F1 Team,12,0,False
+2025,17,ALB,Williams,13,0,False
+2025,17,OCO,Haas F1 Team,14,0,False
+2025,17,ALO,Aston Martin,15,0,False
+2025,17,HUL,Kick Sauber,16,0,False
+2025,17,STR,Aston Martin,17,0,False
+2025,17,GAS,Alpine,18,0,False
+2025,17,COL,Alpine,19,0,False
+2025,17,PIA,McLaren,999,0,True
+2025,18,RUS,Mercedes,1,25,False
+2025,18,VER,Red Bull Racing,2,18,False
+2025,18,NOR,McLaren,3,15,False
+2025,18,PIA,McLaren,4,12,False
+2025,18,ANT,Mercedes,5,10,False
+2025,18,LEC,Ferrari,6,8,False
+2025,18,ALO,Aston Martin,7,6,False
+2025,18,HAM,Ferrari,8,4,False
+2025,18,BEA,Haas F1 Team,9,2,False
+2025,18,SAI,Williams,10,1,False
+2025,18,HAD,Racing Bulls,11,0,False
+2025,18,TSU,Red Bull Racing,12,0,False
+2025,18,STR,Aston Martin,13,0,False
+2025,18,ALB,Williams,14,0,False
+2025,18,LAW,Racing Bulls,15,0,False
+2025,18,COL,Alpine,16,0,False
+2025,18,BOR,Kick Sauber,17,0,False
+2025,18,OCO,Haas F1 Team,18,0,False
+2025,18,GAS,Alpine,19,0,False
+2025,18,HUL,Kick Sauber,20,0,False
+2025,19,VER,Red Bull Racing,1,25,False
+2025,19,NOR,McLaren,2,18,False
+2025,19,LEC,Ferrari,3,15,False
+2025,19,HAM,Ferrari,4,12,False
+2025,19,PIA,McLaren,5,10,False
+2025,19,RUS,Mercedes,6,8,False
+2025,19,TSU,Red Bull Racing,7,6,False
+2025,19,HUL,Kick Sauber,8,4,False
+2025,19,BEA,Haas F1 Team,9,2,False
+2025,19,ALO,Aston Martin,10,1,False
+2025,19,LAW,Racing Bulls,11,0,False
+2025,19,STR,Aston Martin,12,0,False
+2025,19,ANT,Mercedes,13,0,False
+2025,19,ALB,Williams,14,0,False
+2025,19,OCO,Haas F1 Team,15,0,False
+2025,19,HAD,Racing Bulls,16,0,False
+2025,19,COL,Alpine,17,0,False
+2025,19,BOR,Kick Sauber,18,0,False
+2025,19,GAS,Alpine,19,0,False
+2025,19,SAI,Williams,999,0,True
+2025,20,NOR,McLaren,1,25,False
+2025,20,LEC,Ferrari,2,18,False
+2025,20,VER,Red Bull Racing,3,15,False
+2025,20,BEA,Haas F1 Team,4,12,False
+2025,20,PIA,McLaren,5,10,False
+2025,20,ANT,Mercedes,6,8,False
+2025,20,RUS,Mercedes,7,6,False
+2025,20,HAM,Ferrari,8,4,False
+2025,20,OCO,Haas F1 Team,9,2,False
+2025,20,BOR,Kick Sauber,10,1,False
+2025,20,TSU,Red Bull Racing,11,0,False
+2025,20,ALB,Williams,12,0,False
+2025,20,HAD,Racing Bulls,13,0,False
+2025,20,STR,Aston Martin,14,0,False
+2025,20,GAS,Alpine,15,0,False
+2025,20,COL,Alpine,16,0,False
+2025,20,SAI,Williams,999,0,True
+2025,20,ALO,Aston Martin,999,0,True
+2025,20,HUL,Kick Sauber,999,0,True
+2025,20,LAW,Racing Bulls,999,0,True
+2025,21,NOR,McLaren,1,25,False
+2025,21,ANT,Mercedes,2,18,False
+2025,21,VER,Red Bull Racing,3,15,False
+2025,21,RUS,Mercedes,4,12,False
+2025,21,PIA,McLaren,5,10,False
+2025,21,BEA,Haas F1 Team,6,8,False
+2025,21,LAW,Racing Bulls,7,6,False
+2025,21,HAD,Racing Bulls,8,4,False
+2025,21,HUL,Kick Sauber,9,2,False
+2025,21,GAS,Alpine,10,1,False
+2025,21,ALB,Williams,11,0,False
+2025,21,OCO,Haas F1 Team,12,0,False
+2025,21,SAI,Williams,13,0,False
+2025,21,ALO,Aston Martin,14,0,False
+2025,21,COL,Alpine,15,0,False
+2025,21,STR,Aston Martin,16,0,False
+2025,21,TSU,Red Bull Racing,17,0,False
+2025,21,HAM,Ferrari,999,0,True
+2025,21,LEC,Ferrari,999,0,True
+2025,21,BOR,Kick Sauber,999,0,True
+2025,22,VER,Red Bull Racing,1,25,False
+2025,22,RUS,Mercedes,2,18,False
+2025,22,ANT,Mercedes,3,15,False
+2025,22,LEC,Ferrari,4,12,False
+2025,22,SAI,Williams,5,10,False
+2025,22,HAD,Racing Bulls,6,8,False
+2025,22,HUL,Kick Sauber,7,6,False
+2025,22,HAM,Ferrari,8,4,False
+2025,22,OCO,Haas F1 Team,9,2,False
+2025,22,BEA,Haas F1 Team,10,1,False
+2025,22,ALO,Aston Martin,11,0,False
+2025,22,TSU,Red Bull Racing,12,0,False
+2025,22,GAS,Alpine,13,0,False
+2025,22,LAW,Racing Bulls,14,0,False
+2025,22,COL,Alpine,15,0,False
+2025,22,ALB,Williams,999,0,True
+2025,22,BOR,Kick Sauber,999,0,True
+2025,22,STR,Aston Martin,999,0,True
+2025,22,NOR,McLaren,19,0,False
+2025,22,PIA,McLaren,20,0,False
