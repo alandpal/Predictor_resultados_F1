@@ -1,6 +1,3 @@
-# ============================================================================
-# APP STREAMLIT - F1 CHAMPIONSHIP PREDICTOR
-# ============================================================================
 
 import streamlit as st
 import pandas as pd
@@ -24,12 +21,11 @@ st.set_page_config(
 )
 
 # Paths
-MODELS_DIR = Path('models')
-DATA_DIR = Path('data/processed')
+MODELS_DIR = Path('../models')
+DATA_DIR = Path('../data/processed')
 CACHE_2025_FILE = DATA_DIR / 'f1_2025_local.csv'
 CACHE_INFO_FILE = DATA_DIR / 'f1_2025_info.json'
 
-# ==================== CARGAR MODELOS Y CONFIG ====================
 
 @st.cache_resource
 def cargar_modelos():
@@ -64,7 +60,6 @@ def cargar_datos():
 modelos, config = cargar_modelos()
 context_stats = cargar_datos()
 
-# ==================== TEAM MAPPING ====================
 
 TEAM_MAPPING = {
     'Aston Martin': 'Aston Martin',
@@ -94,34 +89,33 @@ TEAM_MAPPING = {
 
 def normalizar_team(team):
     return TEAM_MAPPING.get(team, team)
-
-# Colores por equipo (gamas diferenciadas)
+ 
 TEAM_COLORS = {
-    'Red Bull Racing': ['#1E3A8A', '#3B82F6'],      # Azul oscuro/claro
-    'Ferrari': ['#DC2626', '#EF4444'],               # Rojo oscuro/claro
-    'Mercedes': ['#059669', '#10B981'],              # Verde oscuro/claro
-    'McLaren': ['#EA580C', '#FB923C'],               # Naranja oscuro/claro
-    'Aston Martin': ['#047857', '#34D399'],          # Verde esmeralda oscuro/claro
-    'Alpine': ['#0284C7', '#38BDF8'],                # Azul cielo oscuro/claro
-    'AlphaTauri': ['#4338CA', '#818CF8'],            # Índigo oscuro/claro
-    'Sauber': ['#991B1B', '#F87171'],                # Rojo burgundy oscuro/claro
-    'Haas': ['#4B5563', '#9CA3AF'],                  # Gris oscuro/claro
-    'Williams': ['#1D4ED8', '#60A5FA'],              # Azul real oscuro/claro
+    'Red Bull Racing': ['#1E3A8A', '#3B82F6'],    
+    'Ferrari': ['#DC2626', '#EF4444'],               
+    'Mercedes': ['#059669', '#10B981'],            
+    'McLaren': ['#EA580C', '#FB923C'],           
+    'Aston Martin': ['#047857', '#34D399'],          
+    'Alpine': ['#0284C7', '#38BDF8'],              
+    'AlphaTauri': ['#4338CA', '#818CF8'],            
+    'Sauber': ['#991B1B', '#F87171'],               
+    'Haas': ['#4B5563', '#9CA3AF'],                
+    'Williams': ['#1D4ED8', '#60A5FA'],              
 }
 
 def obtener_color_piloto(driver, team, df_all):
     """Asigna color según equipo (primer piloto color oscuro, segundo color claro)"""
     if team not in TEAM_COLORS:
-        return '#6B7280'  # Gris por defecto
+        return '#6B7280'  
     
     # Obtener pilotos del equipo
     pilotos_equipo = df_all[df_all['team'] == team]['driver'].unique()
     
     # Asignar color oscuro al primero, claro al segundo
     if len(pilotos_equipo) == 1 or driver == pilotos_equipo[0]:
-        return TEAM_COLORS[team][0]  # Color oscuro
+        return TEAM_COLORS[team][0] 
     else:
-        return TEAM_COLORS[team][1]  # Color claro
+        return TEAM_COLORS[team][1]  
 
 # ==================== GESTIÓN DE DATOS 2025 ====================
 

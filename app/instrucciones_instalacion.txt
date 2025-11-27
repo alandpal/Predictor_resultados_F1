@@ -1,0 +1,68 @@
+F1 CHAMPIONSHIP PREDICTOR - INSTRUCCIONES DE INSTALACIÓN
+==========================================================
+
+REQUISITOS PREVIOS
+------------------
+- Python 3.8 o superior instalado
+- Git (opcional, para clonar el repositorio)
+
+
+INSTALACIÓN (3 PASOS)
+----------------------
+
+PASO 1: DESCARGAR EL PROYECTO
+------------------------------
+
+Opción A - Con Git:
+  git clone https://github.com/alandpal/Predictor_resultados_F1.git
+  cd Predictor_resultados_F1
+
+Opción B - Descarga directa:
+  1. Ve a https://github.com/alandpal/Predictor_resultados_F1
+  2. Click en "Code" → "Download ZIP"
+  3. Extrae el archivo ZIP
+  4. Abre una terminal en la carpeta extraída
+
+
+PASO 2: INSTALAR DEPENDENCIAS
+------------------------------
+
+# Crear entorno virtual (recomendado)
+python -m venv venv
+
+# Activar entorno virtual
+# En Windows:
+venv\Scripts\activate
+# En Mac/Linux:
+source venv/bin/activate
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+
+PASO 3: EJECUTAR LA APLICACIÓN
+-------------------------------
+
+cd app
+streamlit run app.py
+
+La aplicación se abrirá automáticamente en tu navegador en:
+http://localhost:8501
+
+
+CONTENIDO DEL REPOSITORIO
+--------------------------
+El proyecto ya incluye:
+✓ Modelos entrenados (en /models)
+✓ Datos históricos procesados (en /data/processed)
+✓ Configuración completa
+
+No necesitas descargar ni procesar datos adicionales.
+
+
+USO DE LA APLICACIÓN
+---------------------
+1. La aplicación cargará automáticamente al iniciar
+2. Haz clic en "Actualizar Datos" para descargar resultados de 2025
+3. Usa el slider para seleccionar la ronda
+4. Visualiza la predicción de clasificación final
